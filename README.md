@@ -74,4 +74,4 @@ gr00t/eval/sim/SimplerEnv/simpler_uv/.venv/bin/python gr00t/eval/rollout_policy.
 
 ## Results
 
-We provide the benchmark results in the respective csv. files. The statistical analysis along with the graphical analysis can be found on the notebook file.
+We provide the benchmark results in the respective csv. and video files. The statistical analysis along with the graphical analysis can be found on the notebook file.
