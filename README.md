@@ -6,8 +6,8 @@
 
 Follow the instructions for instalation of the GR00T model in the repository: for GR00T N1.7 (https://github.com/NVIDIA/Isaac-GR00T) and GR00T N1.6 (https://github.com/NVIDIA/Isaac-GR00T/tree/n1d6). 
 It will clone the repository and install GR00T in a uv enviroment with it's dependencies. 
-
-Make sure the shared system libraries are installed:
+ 
+After installing a GR00T version, make sure the shared system libraries are installed:
 ```bash
 sudo apt update
 sudo apt install libegl1-mesa-dev libglu1-mesa
